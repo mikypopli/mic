@@ -1,0 +1,15 @@
+public class WhileLoop{
+  public static void main(string[] args) {
+
+  int i=1;
+   while (i<1){
+   system.out.println(i);
+   }
+
+    do{
+       System.out.println(1);
+       I++;
+    }while (i<1);
+
+    system.out.println("value of i::"+1);
+}
